@@ -2,7 +2,7 @@
 
 Pull the latest changes from the 7EDGE shared repo into your local machine. Run this every time before you start working.
 
-## Steps
+## Steps to pull the code
 
 1. First, check if git is available:
    ```bash
